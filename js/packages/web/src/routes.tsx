@@ -17,6 +17,7 @@ import { BillingView } from './views/auction/billing';
 export function Routes() {
   return (
     <>
+      <h1>Hello There</h1>
       <HashRouter basename={'/'}>
         <Providers>
           <Switch>
